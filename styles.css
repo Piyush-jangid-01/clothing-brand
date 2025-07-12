@@ -99,6 +99,8 @@ nav ul li a {
 
 .home {
     background-image: url(l-intro-1716128115.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .home h3 h6 {
